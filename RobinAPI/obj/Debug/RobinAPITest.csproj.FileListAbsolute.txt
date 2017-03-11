@@ -1,0 +1,30 @@
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe.config
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.pdb
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Nancy.dll
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Nancy.Hosting.Self.dll
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Npgsql.dll
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Nancy.xml
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Nancy.Hosting.Self.xml
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\bin\Debug\Npgsql.xml
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.csprojResolveAssemblyReference.cache
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.exe
+C:\Programming\C# Projects\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.pdb
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe.config
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.exe
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.pdb
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.pdb
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Nancy.dll
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Nancy.Hosting.Self.dll
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Npgsql.dll
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Nancy.xml
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Nancy.Hosting.Self.xml
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\Npgsql.xml
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\obj\Debug\RobinAPITest.csprojResolveAssemblyReference.cache
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe.CodeAnalysisLog.xml
+C:\Programming\Town of Robin\RobinAPITest\RobinAPITest\bin\Debug\RobinAPITest.exe.lastcodeanalysissucceeded

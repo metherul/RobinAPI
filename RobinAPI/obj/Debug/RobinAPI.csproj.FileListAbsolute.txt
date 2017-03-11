@@ -1,0 +1,15 @@
+C:\Programming\Town of Robin\RobinAPITest\RobinAPI\bin\Debug\RobinAPI.exe.config
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\RobinAPI.exe.config
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\obj\Debug\RobinAPI.csprojResolveAssemblyReference.cache
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\RobinAPI.exe
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\RobinAPI.pdb
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Nancy.dll
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Nancy.Hosting.Self.dll
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Npgsql.dll
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Nancy.xml
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Nancy.Hosting.Self.xml
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\bin\Debug\Npgsql.xml
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\obj\Debug\RobinAPI.exe
+C:\Programming\Town of Robin\RobinAPI\RobinAPI\obj\Debug\RobinAPI.pdb
